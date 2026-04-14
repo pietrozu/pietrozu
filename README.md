@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**pietrozu/pietrozu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Pietro Zuchinali
+Platform PM @ Localiza&Co · building things that actually work
+## What I build
+- automation pipelines (Claude API, Python)
+- agentic systems that read, reason and write back
+- data tools for product decisions
+## Stack
+Python · Claude API · SQL · REST APIs · Obsidian
+## Day job
+Modernizing B2B fleet platforms at Localiza — decoupling legacy, building for scale
